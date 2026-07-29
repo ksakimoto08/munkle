@@ -13,7 +13,7 @@ from rdkit import Chem
 from rdkit.Chem import Draw,rdRascalMCES
 from rdkit.Chem.Draw import rdMolDraw2D
 
-st.iframe("https://organicchemistrydata.org/js/ketcher/index.html",unsafe_allow_javascript=True)
+st.iframe("https://organicchemistrydata.org/js/ketcher/index.html")
 
 #global display options
 structure_width = 300
