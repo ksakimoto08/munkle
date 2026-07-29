@@ -16,7 +16,8 @@ from rdkit.Chem.Draw import rdMolDraw2D
 st.iframe(("https://organicchemistrydata.org/js/ketcher/index.html?hiddenControls="
            "arom,dearom,cip,check,analyse,recognize,miew,reaction-plus,arrows,"
            "reaction-mapping-tools,rgroup,shape,text,images,enhanced-stereo,fullscreen,"
-           "sgroup,open,save,paste,copy,cut,copy-mol,create-monomer,shape-ellipse"))
+           "sgroup,open,save,paste,copy,cut,copy-mol,create-monomer,shape-ellipse"
+           "shape-rectangle,shape-line,extended-table"))
 
 #global display options
 structure_width = 300
