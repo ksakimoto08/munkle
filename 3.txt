@@ -1,0 +1,6 @@
+Property: Value
+Name: Linalool (CAS # 78-70-6)
+SMILES: CC(O)(C=C)CCC=C(C)C
+Info: Linalool is fragrant monoterpenoid that contributes to the distinctive smell of lavender, coriander, bergamot and many others. The S-(+) enantiomer is sweet and floral while the R-(+)-linalool is more woody. It is one of many monoterpene alcohols (e.g. eucalyptol, geraniol, citronellal), all isomers with the formula C₁₀H₁₈O.
+HNMR: 500 MHz, CDCl₃
+CNMR: 500 MHz, CDCl₃

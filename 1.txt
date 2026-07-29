@@ -1,0 +1,6 @@
+Property: Value
+Name: Vanillin (CAS # 121-33-5)
+SMILES: c1(C=O)cc(OC)c(O)cc1
+Info: Vanillin is widely a used flavoring traditionally extracted from vanilla beans. More commonly, it is produced synthetically from phenols such as guaiacol derived from wood pulp waste.
+HNMR: 500 MHz, D₂O
+CNMR: 500 MHz, D₂O
