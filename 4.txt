@@ -1,6 +1,0 @@
-Property: Value
-Name: p-Aminobenzoic acid (PABA) (CAS # 150-13-0)
-SMILES: O=C(O)c1ccc(N)cc1
-Info: PABA is a biochemical intermediate bacteria and fungi use to synthesize folate (an essential B vitamin). Derivatives of PABA, such as sulfonamide drugs, are ubiquitous antibiotics due to their structural similarity and ability to interfere in the biosynthesis of PABA.
-HNMR: 500 MHz, D₂O
-CNMR: 500 MHz, D₂O
