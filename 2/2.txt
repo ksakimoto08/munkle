@@ -1,0 +1,6 @@
+Property: Value
+Name: Carvone (CAS # 99-49-0)
+SMILES: O=C1CC(C(C)=C)CC=C1C
+Info: Carvone naturally occurs in two mirror enantiomers. The R-(-) enantiomer is responsible for the minty smell of spearmint, while the S-(+) enantiomer contributes to the earthy, herbal aroma of oregano.
+HNMR: 500 MHz, CDCl₃
+CNMR: 500 MHz, CDCl₃
