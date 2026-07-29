@@ -17,7 +17,7 @@ st.iframe(("https://organicchemistrydata.org/js/ketcher/index.html?hiddenControl
            "arom,dearom,cip,check,analyse,recognize,miew,reaction-plus,arrows,"
            "reaction-mapping-tools,rgroup,shape,text,images,enhanced-stereo,fullscreen,"
            "sgroup,open,save,paste,copy,cut,copy-mol,create-monomer,shape-ellipse,"
-           "shape-rectangle,shape-line,extended-table,any-atom,F"))
+           "shape-rectangle,shape-line,extended-table,any-atom,library"))
 
 #global display options
 structure_width = 300
