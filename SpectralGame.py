@@ -13,7 +13,7 @@ from rdkit import Chem
 from rdkit.Chem import Draw,rdRascalMCES
 from rdkit.Chem.Draw import rdMolDraw2D
 
-st.html("./ketcher/index.html")
+st.html("https://organicchemistrydata.org/js/ketcher/index.html?hiddenControls=arom,dearom,cip,check,analyse,recognize,miew,reaction-mapping-tools,rgroup,shape,text,images,enhanced-stereo,fullscreen,sgroup,open,save,paste")
 
 #global display options
 structure_width = 300
