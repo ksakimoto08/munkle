@@ -1,1 +1,3 @@
 streamlit-ketcher
+streamlit_local_storage
+rdkit
