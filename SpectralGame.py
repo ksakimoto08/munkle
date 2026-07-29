@@ -13,6 +13,8 @@ from rdkit import Chem
 from rdkit.Chem import Draw,rdRascalMCES
 from rdkit.Chem.Draw import rdMolDraw2D
 
+st.html('ketcher/index.html')
+
 #global display options
 structure_width = 300
 structure_height = 200
