@@ -14,7 +14,8 @@ from rdkit.Chem import Draw,rdRascalMCES
 from rdkit.Chem.Draw import rdMolDraw2D
 
 st.iframe(("https://lifescience.opensource.epam.com/KetcherDemoSA/index.html?hiddenControls="
-        "arom,dearom,cip,check,analyse,recognize,miew,reaction-plus,arrows,reaction-mapping-tools,rgroup,shape,text,images,enhanced-stereo,fullscreen,sgroup,open,save,paste")
+           "arom,dearom,cip,check,analyse,recognize,miew,reaction-plus,arrows,reaction-mapping-tools"
+           "rgroup,shape,text,images,enhanced-stereo,fullscreen,sgroup,open,save,paste"))
 
 #global display options
 structure_width = 300
