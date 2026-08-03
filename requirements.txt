@@ -1,5 +1,5 @@
 streamlit
-streamlit_ketcher_lite
+streamlit_ketcher
 streamlit_local_storage
 pandas
 plotly
