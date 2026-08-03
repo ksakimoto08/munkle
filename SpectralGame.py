@@ -2,7 +2,6 @@
 #© 2026 Kelsey Sakimoto
 
 import streamlit as st #to run streamlit webapp
-pip install git+https://github.com/ksakimoto08/streamlit_ketcher_lite
 from streamlit_ketcher import st_ketcher #for structure editor
 from streamlit_local_storage import LocalStorage #for user play history
 from pandas import read_csv #for csv import
