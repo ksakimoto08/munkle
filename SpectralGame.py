@@ -2,6 +2,7 @@
 #© 2026 Kelsey Sakimoto
 
 import streamlit as st #to run streamlit webapp
+pip install git+https://github.com/ksakimoto08/streamlit-ketcher-lite
 from streamlit_ketcher import st_ketcher #for structure editor
 from streamlit_local_storage import LocalStorage #for user play history
 from pandas import read_csv #for csv import
@@ -12,12 +13,6 @@ import plotly.graph_objects as go
 from rdkit import Chem
 from rdkit.Chem import Draw,rdRascalMCES
 from rdkit.Chem.Draw import rdMolDraw2D
-
-st.iframe(("https://organicchemistrydata.org/js/ketcher/index.html?hiddenControls="
-           "arom,dearom,cip,check,analyse,recognize,miew,reaction-plus,arrows,"
-           "reaction-mapping-tools,rgroup,shape,text,images,enhanced-stereo,fullscreen,"
-           "sgroup,open,save,paste,copy,cut,copy-mol,create-monomer,shape-ellipse,"
-           "shape-rectangle,shape-line,extended-table,any-atom,library"))
 
 #global display options
 structure_width = 300
